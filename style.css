@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+  text-align:  center;
+}
+.blue {
+  color: blue;
+  background-color: cyan;
+  text-align: center;
+}
+.red {
+  color: red;
+  background-color: pink;
+  text-align:  center;
+}
+.yellow {
+  color: yellow;
+  background-color: black;
+  text-align:  center;
+}
+.green {
+  color: green;
+  background-color: lightgreen;
+  text-align:  center;
+}
